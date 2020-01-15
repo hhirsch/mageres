@@ -57,7 +57,6 @@ Contributions are very welcome: fork the project and submit your pull request, o
 * [Magento patches finder](http://fabrizioballiano.net/magento-patches/) - tool to show needed patches by version of Magento
 * [Magento 2 bash completion](https://github.com/yvoronoy/magento2-bash-completion)
 * [MageReport.com](https://www.magereport.com/) - gives you a quick insight in the security status of your Magento shop
-* [Magereverse](http://www.magereverse.com/) - MAGEREVERSE is an online Database Diagram Tool dedicated to Magento eCommerce CE Edition.
 * [Magneto Debug](https://github.com/madalinoprea/magneto-debug) - Magento 1.x developer debug toolbar
 * [Modman](https://github.com/colinmollenhour/modman) - Magento Module Manager
 * [PhpStorm Magento 2 Plugin](https://github.com/dkvashninbay/magento2plugin)
